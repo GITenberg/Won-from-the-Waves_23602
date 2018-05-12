@@ -1,0 +1,37 @@
+_repo: Won-from-the-Waves_23602
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greene, John B.
+    gutenberg_agent_id: '9736'
+    url: http://www.gutenberg.org/2009/agents/9736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2007-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+title: Won from the Waves
+url: http://www.gutenberg.org/ebooks/23602
